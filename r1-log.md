@@ -1,10 +1,11 @@
-# #100DaysOfCode Log - Round 1 - [Your Name Here]
+# #100DaysOfCode Log - [Ismoil Shifoev]
 
-The log of my #100DaysOfCode challenge. Started on [July 17, Monday, 2017].
+The log of my #100DaysOfCode challenge. Started on [Jan 23, Sunday, 2022].
 
 ## Log
 
-### R1D1 
-Started a Weather App. Worked on the draft layout of the app, struggled with OpenWeather API http://www.example.com
+### R1D1: Jan 23, 2022
 
-### R1D2
+**Todays Progress**: Working with two numbers sum. I spend time in AlgoExpert to find solution with sum numbers with targetsum. You need to check out and write function take non empty array of distinct integer represensting a target sum. 
+
+**Thoughts**: I think I feel good about starting my path for 100 days code chalenge. Sometimes you need motivation to start your journey, I am glad that I am starting.
