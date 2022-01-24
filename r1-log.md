@@ -19,3 +19,9 @@ The log of my #100DaysOfCode challenge. Started on [Jan 23, Sunday, 2022].
 **Thoughts**: I just for starting I see that I can code myself and doing much do understand the basic DS and Algoritms, but sometimes you can see you need extra help the video explanation. 
 
 **Link to Work**: [isValidateSubsequence and Client Server](https://github.com/ishifoev/CodeChalenge-JS/tree/main/day2)
+
+### R1D3: Jan 25. 2022
+**Today Progress**: Working with Sorted Square Array Algoritm. Write functions that takes is a not-empty array of integers that are sorted in ascending order and return new array of the same length with squares. Continue passing System Design topic Network protocol only some part of it.
+
+**Thoughts**: Yeah I feel good that sometimes I would like to finish my work myself and it is give me proud for me. But sometimes for example I would like to dedicate more time to finish something, but I can't because I have another work need to do.
+**Link to Work**: [Sorted Square Array](https://github.com/ishifoev/CodeChalenge-JS/tree/main/day3)
