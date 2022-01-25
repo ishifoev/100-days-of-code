@@ -21,7 +21,17 @@ The log of my #100DaysOfCode challenge. Started on [Jan 23, Sunday, 2022].
 **Link to Work**: [isValidateSubsequence and Client Server](https://github.com/ishifoev/CodeChalenge-JS/tree/main/day2)
 
 ### R1D3: Jan 25. 2022
+
 **Today Progress**: Working with Sorted Square Array Algoritm. Write functions that takes is a not-empty array of integers that are sorted in ascending order and return new array of the same length with squares. Continue passing System Design topic Network protocol only some part of it.
 
 **Thoughts**: Yeah I feel good that sometimes I would like to finish my work myself and it is give me proud for me. But sometimes for example I would like to dedicate more time to finish something, but I can't because I have another work need to do.
 **Link to Work**: [Sorted Square Array](https://github.com/ishifoev/CodeChalenge-JS/tree/main/day3)
+
+### R1D4 Jan 26, 2022
+
+**Today Progress** Working with Tournament Winner Algoritm and DS. There is the algoritm tournament place in which 
+teams programmers complete against each other. Only two teams complete against each other in time, one team home team and one away. Continue working with System Design Network Protocols very interesting topic.
+
+**Thoughts** : I think this day more very complicated DS and Algoritms and I will continue working the problem give us more length to work.
+
+**Link to Work**: [Winner Algoritm and Networking Protocol](https://github.com/ishifoev/CodeChalenge-JS/tree/main/day4)
