@@ -35,3 +35,9 @@ teams programmers complete against each other. Only two teams complete against e
 **Thoughts** : I think this day more very complicated DS and Algoritms and I will continue working the problem give us more length to work.
 
 **Link to Work**: [Winner Algoritm and Networking Protocol](https://github.com/ishifoev/CodeChalenge-JS/tree/main/day4)
+
+### R1D5 Jan 27, 2022
+
+**Today progress** Working with NON-Construcrible change. Given an array of positive integers representing on the values of the coins in your possession, write function that the minimum amount of change(the minimum sum of money), that you can't create. Continue learning System Design Section Storage
+
+**Link to Work**: [NON-Construcrible Algoritm and Storage](https://github.com/ishifoev/CodeChalenge-JS/tree/main/day5)
