@@ -50,3 +50,4 @@ teams programmers complete against each other. Only two teams complete against e
 
 **Thoughts** I think when I am going and exploring new DS and Algoritms it is become difficulty to understand, but I think it will take time to understand more things very clear. The same thing about System Design.
 
+**Link to Work**: [Find Closest Value in BST, Latency and Throghput](https://github.com/ishifoev/CodeChalenge-JS/tree/main/day6)
