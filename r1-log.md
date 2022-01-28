@@ -40,4 +40,13 @@ teams programmers complete against each other. Only two teams complete against e
 
 **Today progress** Working with NON-Construcrible change. Given an array of positive integers representing on the values of the coins in your possession, write function that the minimum amount of change(the minimum sum of money), that you can't create. Continue learning System Design Section Storage
 
+**Thoughts** : I think this day more very complicated DS and Algoritms and I will continue working the problem give us more length to work.
+
 **Link to Work**: [NON-Construcrible Algoritm and Storage](https://github.com/ishifoev/CodeChalenge-JS/tree/main/day5)
+
+### R1D6 Jan 28, 2022
+
+**Today progress** Working with BST Data Structure. Write function that takes in Binary Search Tree(BST) and a target integer value and return the closest value to the target value contained in the BST. Continue exploring topic System Desing like Latency and Throghput.
+
+**Thoughts** I think when I am going and exploring new DS and Algoritms it is become difficulty to understand, but I think it will take time to understand more things very clear. The same thing about System Design.
+
