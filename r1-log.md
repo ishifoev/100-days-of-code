@@ -51,3 +51,11 @@ teams programmers complete against each other. Only two teams complete against e
 **Thoughts** I think when I am going and exploring new DS and Algoritms it is become difficulty to understand, but I think it will take time to understand more things very clear. The same thing about System Design.
 
 **Link to Work**: [Find Closest Value in BST, Latency and Throghput](https://github.com/ishifoev/CodeChalenge-JS/tree/main/day6)
+
+### R1D7 Jan 29, 2022
+
+**Today progress** Working with Branch Sums DS Binary Tree. Write a function that takes in a Binary Tree and return a list of it's branch sums ordered from leftmost branch sum to rightmost branch sum. System Design topic Availiablity start, but not finish yet.
+
+**Thoughts** Some times I think I have a progress in my work, but sometimes I see that it is not easily integrates such DS like a Binary Tree. But feel good that I am not give up and each day I am working in my progression.
+
+**Link to Work**: [Branch Sums DS Binary Tree](https://github.com/ishifoev/CodeChalenge-JS/tree/main/day7)
