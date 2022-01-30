@@ -59,3 +59,11 @@ teams programmers complete against each other. Only two teams complete against e
 **Thoughts** Some times I think I have a progress in my work, but sometimes I see that it is not easily integrates such DS like a Binary Tree. But feel good that I am not give up and each day I am working in my progression.
 
 **Link to Work**: [Branch Sums DS Binary Tree](https://github.com/ishifoev/CodeChalenge-JS/tree/main/day7)
+
+### R1D8 Jan 30, 2022
+
+**Today Progress** Working with Nodes Depth DS Binary Tree. Write function that takes Binary Tree and return the sum of it's nodes depths. System Design to see the Availability part like SLA and SLO how your server can be availiable very interesting topic. 
+
+**Thoughts** Mostly I am getting what I am doing, but topic binary tree need more time to understand very efficient for prepare for interview. But feel good, I think I have a progress.
+
+**Link to Work**: [Branch Sums DS Binary Tree](https://github.com/ishifoev/CodeChalenge-JS/tree/main/day8)
