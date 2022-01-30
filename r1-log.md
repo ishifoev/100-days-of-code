@@ -67,3 +67,11 @@ teams programmers complete against each other. Only two teams complete against e
 **Thoughts** Mostly I am getting what I am doing, but topic binary tree need more time to understand very efficient for prepare for interview. But feel good, I think I have a progress.
 
 **Link to Work**: [Branch Sums DS Binary Tree](https://github.com/ishifoev/CodeChalenge-JS/tree/main/day8)
+
+### R1D9 Jan 31, 2022
+
+**Today Progress** Working with Depth First Search. You are give a nodes class that has a name and an array of optional children nodes. When puts together, from as asyclic tree-like structure. System Design starting Cache topic, but not end yet.
+
+**Thoughts** Very interesting part and understandable. I think I am working in right side. Feel good mostly.
+
+**Link to Work**: [Depth First Search](https://github.com/ishifoev/CodeChalenge-JS/tree/main/day9)
