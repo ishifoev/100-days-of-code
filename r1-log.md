@@ -75,3 +75,11 @@ teams programmers complete against each other. Only two teams complete against e
 **Thoughts** Very interesting part and understandable. I think I am working in right side. Feel good mostly.
 
 **Link to Work**: [Depth First Search](https://github.com/ishifoev/CodeChalenge-JS/tree/main/day9)
+
+### R1D10 Feb 01, 2022
+
+**Today Progress** Working with Minimum waiting time. You are give an non empty array of positive integers representing an amount of time that specific queries take to execute. Only one query can be excecuted at a time, but the queries can't be executed in any order. System Design Topic Cache very interesting part for the Youtube Design.
+
+**Thoghts** I am feeling good, that have understand things for exexution time algoritm and caching topic for big system will be. But need to continue working never give up Ismoil.
+
+**Link to Work**: [Depth First Search](https://github.com/ishifoev/CodeChalenge-JS/tree/main/day10)
