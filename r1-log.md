@@ -82,4 +82,4 @@ teams programmers complete against each other. Only two teams complete against e
 
 **Thoghts** I am feeling good, that have understand things for exexution time algoritm and caching topic for big system will be. But need to continue working never give up Ismoil.
 
-**Link to Work**: [Depth First Search](https://github.com/ishifoev/CodeChalenge-JS/tree/main/day10)
+**Link to Work**: [Minimum Waiting Time and Caching](https://github.com/ishifoev/CodeChalenge-JS/tree/main/day10)
