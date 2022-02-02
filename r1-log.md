@@ -83,3 +83,11 @@ teams programmers complete against each other. Only two teams complete against e
 **Thoghts** I am feeling good, that have understand things for exexution time algoritm and caching topic for big system will be. But need to continue working never give up Ismoil.
 
 **Link to Work**: [Minimum Waiting Time and Caching](https://github.com/ishifoev/CodeChalenge-JS/tree/main/day10)
+
+### R1D11 Feb 02, 2022
+
+**Today progress** Working with class photos. It is photo day at local school, and you are photographer assigned to take class photos. You are given two input arrays one containing  height of all students with red shirt another one will contain with blue shirt. System Design start Reverse Topic, but not finish yet.
+
+**Thoghts** When you are go deeper you understand something you need to take more time to get. But, no matter we can handle this very interesting topics greedy algoritm and reverse proxy
+
+**Link to Work**: [greedy algoritm class photos](https://github.com/ishifoev/CodeChalenge-JS/tree/main/day11)
