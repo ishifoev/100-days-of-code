@@ -91,3 +91,12 @@ teams programmers complete against each other. Only two teams complete against e
 **Thoghts** When you are go deeper you understand something you need to take more time to get. But, no matter we can handle this very interesting topics greedy algoritm and reverse proxy
 
 **Link to Work**: [greedy algoritm class photos](https://github.com/ishifoev/CodeChalenge-JS/tree/main/day11)
+
+### R1D12 Feb 03, 2022
+
+**Today Progress** A tandem bicycle a bicycle that operated by two people person A and person B. You are give a list positive integers one that contains speeds of riders wearing red shirts and one that conttains speeds of riders wearing blue shirts. Continue working with learning System Design Proxy.
+
+**Thoghts** I am feeling good, mostly going so far, and satisfied by myself. 
+
+
+**Link to Work**: [tandem bysycle and Proxy](https://github.com/ishifoev/CodeChalenge-JS/tree/main/day12)
