@@ -100,3 +100,11 @@ teams programmers complete against each other. Only two teams complete against e
 
 
 **Link to Work**: [tandem bysycle and Proxy](https://github.com/ishifoev/CodeChalenge-JS/tree/main/day12)
+
+### R1D13 Feb 04, 2022
+
+**Today Progress** Remove Duplicates From Linked List. Write a function that returns modified version of Linked List that doesn't contain any node with duplicate values. Each Linked List node has an integer value as well as next node pointing to the next node in the list or null to the if it is tail of the list. System Design start topic learning Load Balancer, but not finish yet.
+
+**Thoghts** I am feeling that need to do more work to have a progression.
+
+**Link to Work**: [Remove Duplicates From Linked List](https://github.com/ishifoev/CodeChalenge-JS/tree/main/day13)
