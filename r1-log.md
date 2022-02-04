@@ -108,3 +108,11 @@ teams programmers complete against each other. Only two teams complete against e
 **Thoghts** I am feeling that need to do more work to have a progression.
 
 **Link to Work**: [Remove Duplicates From Linked List](https://github.com/ishifoev/CodeChalenge-JS/tree/main/day13)
+
+### R1D14 Feb 05, 2022
+
+**Today progress** The Fibonachi sequence is defined as follows the first number is 0 and second number is 1, and the nth number is the sum of (n -  1) and (n - 2). System Design Load Balancer topic very interesting part for handling requests.
+
+**Thoghts** I am feeling more that I can do something to myself and have a progress every day.
+
+**Link to Work**: [Branch Sums DS Binary Tree](https://github.com/ishifoev/CodeChalenge-JS/tree/main/day14)
