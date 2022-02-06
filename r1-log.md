@@ -116,3 +116,11 @@ teams programmers complete against each other. Only two teams complete against e
 **Thoghts** I am feeling more that I can do something to myself and have a progress every day.
 
 **Link to Work**: [Branch Sums DS Binary Tree](https://github.com/ishifoev/CodeChalenge-JS/tree/main/day14)
+
+### R1D15 Feb 06, 2022
+
+**Today Progress** Working with Algoritm Product Sum. Writing function that takes an special array and returns it's product sum. System Design Start learning Hashing, but not finished yet.
+
+**Thoghts** I am thinking that 15 days is finish, but we need move on and working hard to come to our goal.
+
+**Link to Work**: [Branch Sums DS Binary Tree](https://github.com/ishifoev/CodeChalenge-JS/tree/main/day15)
