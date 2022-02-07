@@ -10,7 +10,7 @@ The log of my #100DaysOfCode challenge. Started on [Jan 23, Sunday, 2022].
 
 **Thoughts**: I think I feel good about starting my path for 100 days code chalenge. Sometimes you need motivation to start your journey, I am glad that I am starting.
 
-**Link to Work**: [Two Number Sum](https://github.com/ishifoev/CodeChalenge-JS/tree/main/day1)
+**Link to Work**: [Two Number Sum](https://github.com/ishifoev/CodeChalenge-JS/tree/main/Round1/day-1)
 
 ### R1D2: Jan 24, 2022
 
@@ -18,14 +18,14 @@ The log of my #100DaysOfCode challenge. Started on [Jan 23, Sunday, 2022].
 
 **Thoughts**: I just for starting I see that I can code myself and doing much do understand the basic DS and Algoritms, but sometimes you can see you need extra help the video explanation. 
 
-**Link to Work**: [isValidateSubsequence and Client Server](https://github.com/ishifoev/CodeChalenge-JS/tree/main/day2)
+**Link to Work**: [isValidateSubsequence and Client Server](https://github.com/ishifoev/CodeChalenge-JS/tree/main/Round1/day-2)
 
 ### R1D3: Jan 25. 2022
 
 **Today Progress**: Working with Sorted Square Array Algoritm. Write functions that takes is a not-empty array of integers that are sorted in ascending order and return new array of the same length with squares. Continue passing System Design topic Network protocol only some part of it.
 
 **Thoughts**: Yeah I feel good that sometimes I would like to finish my work myself and it is give me proud for me. But sometimes for example I would like to dedicate more time to finish something, but I can't because I have another work need to do.
-**Link to Work**: [Sorted Square Array](https://github.com/ishifoev/CodeChalenge-JS/tree/main/day3)
+**Link to Work**: [Sorted Square Array](https://github.com/ishifoev/CodeChalenge-JS/tree/main/Round1/day-3)
 
 ### R1D4 Jan 26, 2022
 
@@ -34,7 +34,7 @@ teams programmers complete against each other. Only two teams complete against e
 
 **Thoughts** : I think this day more very complicated DS and Algoritms and I will continue working the problem give us more length to work.
 
-**Link to Work**: [Winner Algoritm and Networking Protocol](https://github.com/ishifoev/CodeChalenge-JS/tree/main/day4)
+**Link to Work**: [Winner Algoritm and Networking Protocol](https://github.com/ishifoev/CodeChalenge-JS/tree/main/Round1/day-4)
 
 ### R1D5 Jan 27, 2022
 
@@ -42,7 +42,7 @@ teams programmers complete against each other. Only two teams complete against e
 
 **Thoughts** : I think this day more very complicated DS and Algoritms and I will continue working the problem give us more length to work.
 
-**Link to Work**: [NON-Construcrible Algoritm and Storage](https://github.com/ishifoev/CodeChalenge-JS/tree/main/day5)
+**Link to Work**: [NON-Construcrible Algoritm and Storage](https://github.com/ishifoev/CodeChalenge-JS/tree/main/Round1/day-5)
 
 ### R1D6 Jan 28, 2022
 
@@ -50,7 +50,7 @@ teams programmers complete against each other. Only two teams complete against e
 
 **Thoughts** I think when I am going and exploring new DS and Algoritms it is become difficulty to understand, but I think it will take time to understand more things very clear. The same thing about System Design.
 
-**Link to Work**: [Find Closest Value in BST, Latency and Throghput](https://github.com/ishifoev/CodeChalenge-JS/tree/main/day6)
+**Link to Work**: [Find Closest Value in BST, Latency and Throghput](https://github.com/ishifoev/CodeChalenge-JS/tree/main/Round1/day-6)
 
 ### R1D7 Jan 29, 2022
 
@@ -58,7 +58,7 @@ teams programmers complete against each other. Only two teams complete against e
 
 **Thoughts** Some times I think I have a progress in my work, but sometimes I see that it is not easily integrates such DS like a Binary Tree. But feel good that I am not give up and each day I am working in my progression.
 
-**Link to Work**: [Branch Sums DS Binary Tree](https://github.com/ishifoev/CodeChalenge-JS/tree/main/day7)
+**Link to Work**: [Branch Sums DS Binary Tree](https://github.com/ishifoev/CodeChalenge-JS/tree/main/Round1/day-7)
 
 ### R1D8 Jan 30, 2022
 
@@ -66,7 +66,7 @@ teams programmers complete against each other. Only two teams complete against e
 
 **Thoughts** Mostly I am getting what I am doing, but topic binary tree need more time to understand very efficient for prepare for interview. But feel good, I think I have a progress.
 
-**Link to Work**: [Branch Sums DS Binary Tree](https://github.com/ishifoev/CodeChalenge-JS/tree/main/day8)
+**Link to Work**: [Branch Sums DS Binary Tree](https://github.com/ishifoev/CodeChalenge-JS/tree/main/Round1/day-8)
 
 ### R1D9 Jan 31, 2022
 
@@ -74,7 +74,7 @@ teams programmers complete against each other. Only two teams complete against e
 
 **Thoughts** Very interesting part and understandable. I think I am working in right side. Feel good mostly.
 
-**Link to Work**: [Depth First Search](https://github.com/ishifoev/CodeChalenge-JS/tree/main/day9)
+**Link to Work**: [Depth First Search](https://github.com/ishifoev/CodeChalenge-JS/tree/main/Round1/day-9)
 
 ### R1D10 Feb 01, 2022
 
