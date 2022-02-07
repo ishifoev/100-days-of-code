@@ -124,3 +124,11 @@ teams programmers complete against each other. Only two teams complete against e
 **Thoghts** I am thinking that 15 days is finish, but we need move on and working hard to come to our goal.
 
 **Link to Work**: [Branch Sums DS Binary Tree](https://github.com/ishifoev/CodeChalenge-JS/tree/main/day15)
+
+### R1D16 Feb 07, 2022
+
+**Today Progress**  Write function that takes in sorted array of integers as well as target integer. The function should use the Binary Search Algoritm to determine if the target integer is contained in array and should return it's index if it's not -1. System Design Topic Hashing not finished yet.
+
+**Thoghts** I am feeling good, never give up.
+
+**Link to Work**: [Binary Search Algoritm](https://github.com/ishifoev/CodeChalenge-JS/tree/main/day16)
