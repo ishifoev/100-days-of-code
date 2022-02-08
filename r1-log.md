@@ -82,7 +82,7 @@ teams programmers complete against each other. Only two teams complete against e
 
 **Thoghts** I am feeling good, that have understand things for exexution time algoritm and caching topic for big system will be. But need to continue working never give up Ismoil.
 
-**Link to Work**: [Minimum Waiting Time and Caching](https://github.com/ishifoev/CodeChalenge-JS/tree/main/day10)
+**Link to Work**: [Minimum Waiting Time and Caching](https://github.com/ishifoev/CodeChalenge-JS/tree/main/Round2/day-10)
 
 ### R1D11 Feb 02, 2022
 
@@ -90,7 +90,7 @@ teams programmers complete against each other. Only two teams complete against e
 
 **Thoghts** When you are go deeper you understand something you need to take more time to get. But, no matter we can handle this very interesting topics greedy algoritm and reverse proxy
 
-**Link to Work**: [greedy algoritm class photos](https://github.com/ishifoev/CodeChalenge-JS/tree/main/day11)
+**Link to Work**: [greedy algoritm class photos](https://github.com/ishifoev/CodeChalenge-JS/tree/main/Round2/day-11)
 
 ### R1D12 Feb 03, 2022
 
@@ -99,7 +99,7 @@ teams programmers complete against each other. Only two teams complete against e
 **Thoghts** I am feeling good, mostly going so far, and satisfied by myself. 
 
 
-**Link to Work**: [tandem bysycle and Proxy](https://github.com/ishifoev/CodeChalenge-JS/tree/main/day12)
+**Link to Work**: [tandem bysycle and Proxy](https://github.com/ishifoev/CodeChalenge-JS/tree/main/Round2/day-12)
 
 ### R1D13 Feb 04, 2022
 
@@ -107,7 +107,7 @@ teams programmers complete against each other. Only two teams complete against e
 
 **Thoghts** I am feeling that need to do more work to have a progression.
 
-**Link to Work**: [Remove Duplicates From Linked List](https://github.com/ishifoev/CodeChalenge-JS/tree/main/day13)
+**Link to Work**: [Remove Duplicates From Linked List](https://github.com/ishifoev/CodeChalenge-JS/tree/main/Round2/day-13)
 
 ### R1D14 Feb 05, 2022
 
@@ -115,7 +115,7 @@ teams programmers complete against each other. Only two teams complete against e
 
 **Thoghts** I am feeling more that I can do something to myself and have a progress every day.
 
-**Link to Work**: [Branch Sums DS Binary Tree](https://github.com/ishifoev/CodeChalenge-JS/tree/main/day14)
+**Link to Work**: [Branch Sums DS Binary Tree](https://github.com/ishifoev/CodeChalenge-JS/tree/main/Round2/day-14)
 
 ### R1D15 Feb 06, 2022
 
@@ -123,7 +123,7 @@ teams programmers complete against each other. Only two teams complete against e
 
 **Thoghts** I am thinking that 15 days is finish, but we need move on and working hard to come to our goal.
 
-**Link to Work**: [Product Sum](https://github.com/ishifoev/CodeChalenge-JS/tree/main/day15)
+**Link to Work**: [Product Sum](https://github.com/ishifoev/CodeChalenge-JS/tree/main/Round2/day-15)
 
 ### R1D16 Feb 07, 2022
 
@@ -131,4 +131,12 @@ teams programmers complete against each other. Only two teams complete against e
 
 **Thoghts** I am feeling good, never give up.
 
-**Link to Work**: [Binary Search Algoritm](https://github.com/ishifoev/CodeChalenge-JS/tree/main/day16)
+**Link to Work**: [Binary Search Algoritm](https://github.com/ishifoev/CodeChalenge-JS/tree/main/Round2/day-16)
+
+### R1D17 Feb 08, 2022
+
+**Today Progress** Write function that takes in array at least three integers and, without soting the input arrays return a sorted array of three largest integers in the input array. Hashing System Design Interview Topic very large and very interest part.
+
+**Today progress** Have feeling that working with something bigger and every day feeling that I am coming to the true.
+
+**Link to Work**: [Find Three Largest Number and Hashing System Design](https://github.com/ishifoev/CodeChalenge-JS/tree/main/Round2/day-17)
