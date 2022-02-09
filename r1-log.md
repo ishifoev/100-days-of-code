@@ -137,6 +137,14 @@ teams programmers complete against each other. Only two teams complete against e
 
 **Today Progress** Write function that takes in array at least three integers and, without soting the input arrays return a sorted array of three largest integers in the input array. Hashing System Design Interview Topic very large and very interest part.
 
-**Today progress** Have feeling that working with something bigger and every day feeling that I am coming to the true.
+**Thoghts** I am feeling good, never give up. Have feeling that working with something bigger and every day feeling that I am coming to the true.
 
 **Link to Work**: [Find Three Largest Number and Hashing System Design](https://github.com/ishifoev/CodeChalenge-JS/tree/main/Round2/day-17)
+
+### R1D18 Feb 09, 2022
+
+**Today Progress** Working with Bubble Sort Algoritm. Write function that takes in array of integers and returns a sorted version of that array. Use the bubble sort algoritm to sort array. Relational Databases System Design Topic very informative, but not finish yet.
+
+**Thoghts** I think that, have a progress with thinking and solving algoritm after 18 day I can say that when I start it was hard, never give up.
+
+**Link to Work**: [Bubble Sort](https://github.com/ishifoev/CodeChalenge-JS/tree/main/Round2/day-18)
