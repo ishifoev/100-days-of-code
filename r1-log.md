@@ -148,3 +148,12 @@ teams programmers complete against each other. Only two teams complete against e
 **Thoghts** I think that, have a progress with thinking and solving algoritm after 18 day I can say that when I start it was hard, never give up.
 
 **Link to Work**: [Bubble Sort](https://github.com/ishifoev/CodeChalenge-JS/tree/main/Round2/day-18)
+
+### R1D19 Feb 10, 2022
+
+**Today Progress** Working with Insertion Sort Algoritm. WWrite function that takes in array of integers and returns a sorted version of that array. Use the bubble sort algoritm to sort array. 
+
+**Thoghts** Yeah we have a progress, but need a still working.
+
+
+**Link to Work**: [Insertion Sort](https://github.com/ishifoev/CodeChalenge-JS/tree/main/Round2/day-19)
