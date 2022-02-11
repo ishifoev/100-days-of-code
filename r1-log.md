@@ -168,4 +168,10 @@ teams programmers complete against each other. Only two teams complete against e
 **Link to Work**: [Selection Sort](https://github.com/ishifoev/CodeChalenge-JS/tree/main/Round3/day-20)
 
 
-**Link to Work**: [Insertion Sort](https://github.com/ishifoev/CodeChalenge-JS/tree/main/Round2/day-19)
+### R1D21 Feb 12, 2022
+
+**Today progress** Working with Palindrome Check. Write function that takes is non-empty string and that returns a boolean representing whether string is a palindrome. System Design Topic key value stores very interesting part the Redis example caching.
+
+**Thoghts** I am think that for 21 days I am feeling that I have a progress. The habbit will come for 21 days say people. We need to move on and never back down.
+
+**Link to Work**: [Palindrome Check and Key Value Stores](https://github.com/ishifoev/CodeChalenge-JS/tree/main/Round3/day-21)
