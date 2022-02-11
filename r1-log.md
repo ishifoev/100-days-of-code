@@ -155,5 +155,17 @@ teams programmers complete against each other. Only two teams complete against e
 
 **Thoghts** Yeah we have a progress, but need a still working.
 
+**Link to Work**: [Insertion Sort](https://github.com/ishifoev/CodeChalenge-JS/tree/main/Round2/day-19)
+
+
+### R1D20 Feb 10, 2022
+
+**Today progress** Working with Selection Sort Algoritm. WWrite function that takes in array of integers and returns a sorted version of that array. Use Selection Sort Algorirm for it, they have a more difference, but one common they are swapping. Relational Database System Design Topic very large and very interesting, I get more information.
+
+**Thoghts** Sometimes you think know everying, but when you are working with fundamental you are missing something. It's great that I am learning and give me strength go to top.
+
+
+**Link to Work**: [Selection Sort](https://github.com/ishifoev/CodeChalenge-JS/tree/main/Round3/day-20)
+
 
 **Link to Work**: [Insertion Sort](https://github.com/ishifoev/CodeChalenge-JS/tree/main/Round2/day-19)
