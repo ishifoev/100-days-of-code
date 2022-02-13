@@ -183,3 +183,12 @@ teams programmers complete against each other. Only two teams complete against e
 **Thoghts** Very interesting and have a fun.
 
 **Link to Work**: [Caesar Cipher Encryptor](https://github.com/ishifoev/CodeChalenge-JS/tree/main/Round3/day-22)
+
+### R1D23 Feb 14, 2022
+
+**Today Progress** Working with Run-Length Encoding. Write function that takes non empty string and returns it's run length encoding. Very specific algoritm for example if you have AAAAA input in output you take 5A in Wikipedia using such run length encoding.
+
+
+**Thoghts** We take more advantage topic I don't know that I will go so far, thank to myself.
+
+**Link to Work**: [Run-Length Encoding](https://github.com/ishifoev/CodeChalenge-JS/tree/main/Round3/day-23)
