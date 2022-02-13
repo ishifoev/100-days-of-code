@@ -175,3 +175,11 @@ teams programmers complete against each other. Only two teams complete against e
 **Thoghts** I am think that for 21 days I am feeling that I have a progress. The habbit will come for 21 days say people. We need to move on and never back down.
 
 **Link to Work**: [Palindrome Check and Key Value Stores](https://github.com/ishifoev/CodeChalenge-JS/tree/main/Round3/day-21)
+
+### R1D22 Feb 13, 2022
+
+**Today progress** Working with Caesar Cipher Encryptor. Give a non empty string of lowercase letters and non-negative integer a representing key, write function that returns a new string obtaining by shifting every letter in the input string k positions in the aplphaphet, where k is key. Specialize Storage Paradigm start video see, but not finish.
+
+**Thoghts** Very interesting and have a fun.
+
+**Link to Work**: [Caesar Cipher Encryptor](https://github.com/ishifoev/CodeChalenge-JS/tree/main/Round3/day-22)
