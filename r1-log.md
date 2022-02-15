@@ -193,10 +193,18 @@ teams programmers complete against each other. Only two teams complete against e
 
 **Link to Work**: [Run-Length Encoding](https://github.com/ishifoev/CodeChalenge-JS/tree/main/Round3/day-23)
 
-### R1D24 Feb 144, 2022
+### R1D24 Feb 15, 2022
 
 **Today progress** Working with Generate Document. Write function, that determines if you can generate document using the avaliable characters, if you can return true, if you are not return false. Storage Paradigm System Design very poweful topic.
 
 **Thoghts** I think I come to 24 days that easy algoritm will be done soon, I am really excited my path.
 
 **Link to Work**: [Generate Document and Storage Paradigm](https://github.com/ishifoev/CodeChalenge-JS/tree/main/Round3/day-24)
+
+### R1D25 Feb 16, 2022
+
+**Today Progress** I am really impress that finish first 25 easy questions. Write a function that takes in a string of lowercase English-alphabet letters and return index of the string first non-repeating character. 
+
+**Thoghts**  I am thinking that it very help me and give me more thinking to do more working with algoritm and I am proud that I never give up in my way.
+
+**Link to Work**: [non-repeating character](https://github.com/ishifoev/CodeChalenge-JS/tree/main/Round3/day-25)
