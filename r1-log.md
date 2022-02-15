@@ -192,3 +192,11 @@ teams programmers complete against each other. Only two teams complete against e
 **Thoghts** We take more advantage topic I don't know that I will go so far, thank to myself.
 
 **Link to Work**: [Run-Length Encoding](https://github.com/ishifoev/CodeChalenge-JS/tree/main/Round3/day-23)
+
+### R1D24 Feb 144, 2022
+
+**Today progress** Working with Generate Document. Write function, that determines if you can generate document using the avaliable characters, if you can return true, if you are not return false. Storage Paradigm System Design very poweful topic.
+
+**Thoghts** I think I come to 24 days that easy algoritm will be done soon, I am really excited my path.
+
+**Link to Work**: [Run-Length Encoding](https://github.com/ishifoev/CodeChalenge-JS/tree/main/Round3/day-24)
