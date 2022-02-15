@@ -199,4 +199,4 @@ teams programmers complete against each other. Only two teams complete against e
 
 **Thoghts** I think I come to 24 days that easy algoritm will be done soon, I am really excited my path.
 
-**Link to Work**: [Run-Length Encoding](https://github.com/ishifoev/CodeChalenge-JS/tree/main/Round3/day-24)
+**Link to Work**: [Generate Document and Storage Paradigm](https://github.com/ishifoev/CodeChalenge-JS/tree/main/Round3/day-24)
