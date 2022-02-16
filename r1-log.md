@@ -208,3 +208,11 @@ teams programmers complete against each other. Only two teams complete against e
 **Thoghts**  I am thinking that it very help me and give me more thinking to do more working with algoritm and I am proud that I never give up in my way.
 
 **Link to Work**: [non-repeating character](https://github.com/ishifoev/CodeChalenge-JS/tree/main/Round3/day-25)
+
+### R1D26 Feb 17, 2022
+
+**Today Progress** Working with Three number sum. Write functions, that takes is non empty array of distinct integers representing a target sum. System Desing Replication and Sharding very interesting topic.
+
+**Thoghts** Feeling good to move the first medium question it is exciting how far I can go.
+
+**Link to Work**: [Three number sum](https://github.com/ishifoev/CodeChalenge-JS/tree/main/Round3/day-26)
