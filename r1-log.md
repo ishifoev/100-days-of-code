@@ -216,3 +216,12 @@ teams programmers complete against each other. Only two teams complete against e
 **Thoghts** Feeling good to move the first medium question it is exciting how far I can go.
 
 **Link to Work**: [Three number sum](https://github.com/ishifoev/CodeChalenge-JS/tree/main/Round3/day-26)
+
+
+#### R1D27 Feb 18, 2022
+
+**Today Progress** Smallest Difference Algoritm. Write function that takes not empty array of integers find the pair of numbers(one from each array) whoose absolute difference closest to  zero and returns array containing these two numbers. System Design Replication and Sharding very interesting topic.
+
+**Thoghts** Feeling that very difficult question come up.
+
+**Link to Work**: [Smallest Difference, Replication and Sharding](https://github.com/ishifoev/CodeChalenge-JS/tree/main/Round3/day-27)
