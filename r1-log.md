@@ -225,3 +225,11 @@ teams programmers complete against each other. Only two teams complete against e
 **Thoghts** Feeling that very difficult question come up.
 
 **Link to Work**: [Smallest Difference, Replication and Sharding](https://github.com/ishifoev/CodeChalenge-JS/tree/main/Round3/day-27)
+
+#### R1D28, Feb 19, 2022
+
+**Today Progress** Working with Move Element to End. Write a function that moves all instances of that integer in the array to the end of the array and returns an array. Starts Leader Election Topic, but not finished yet
+
+**Thoghts** Feeling, that need to more time to have a progress keep going.
+
+**Link to Work**: [Move Element to End](https://github.com/ishifoev/CodeChalenge-JS/tree/main/Round3/day-28)
