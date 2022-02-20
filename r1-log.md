@@ -233,3 +233,12 @@ teams programmers complete against each other. Only two teams complete against e
 **Thoghts** Feeling, that need to more time to have a progress keep going.
 
 **Link to Work**: [Move Element to End](https://github.com/ishifoev/CodeChalenge-JS/tree/main/Round3/day-28)
+
+#### R1D29, Feb 20, 2022
+
+**Today Progress** Working with Monotonic Array. Write function that take an array of integers and returns a booelan representing whether the array is monotonic. An array is said monotonic if it's element from left to righ are entirely non-increasing or entirely non-decreasing. 
+
+**Thoghts** Medium Question give very hardly for me.
+
+
+**Link to Work**: [Monotonic Array](https://github.com/ishifoev/CodeChalenge-JS/tree/main/Round3/day-29)
