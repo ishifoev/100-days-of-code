@@ -242,3 +242,12 @@ teams programmers complete against each other. Only two teams complete against e
 
 
 **Link to Work**: [Monotonic Array](https://github.com/ishifoev/CodeChalenge-JS/tree/main/Round3/day-29)
+
+#### R1D30, Feb 21, 2022
+
+**Today Progress** Write function that takes in an x m two dimmensional array(that be square-shaped when n == m) and return one-dimmensional array of all arrays in spiral order. System Design Learder Election topic very informative
+
+**Thoghts** I see that it takes more valuable and thing need to more understand I will never give up.
+
+**Link to Work**: [Spiral Traverse and Learder Election](https://github.com/ishifoev/CodeChalenge-JS/tree/main/Round4/day-30)
+
