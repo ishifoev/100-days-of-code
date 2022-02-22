@@ -251,3 +251,11 @@ teams programmers complete against each other. Only two teams complete against e
 
 **Link to Work**: [Spiral Traverse and Learder Election](https://github.com/ishifoev/CodeChalenge-JS/tree/main/Round4/day-30)
 
+### R1D31 Feb 22, 2022
+
+**Today Progress** Working with Longest Peak. Write functions, that take, in an array of integers and return the length of the longest peak of the array. System Design Peer to Peer Networks starts to explore, not finished  
+
+**Thoghts** I see that we have a very difficul algoritms work, but it is interesting more hard work.
+
+**Link to Work**: [Longest Peak](https://github.com/ishifoev/CodeChalenge-JS/tree/main/Round4/day-31)
+
