@@ -266,5 +266,5 @@ teams programmers complete against each other. Only two teams complete against e
 
 **Thoghts** I am feeling need to do more work and never give up Ismoil.
 
-**Link to Work**: [Longest Peak](https://github.com/ishifoev/CodeChalenge-JS/tree/main/Round4/day-32)
+**Link to Work**: [Array of Products](https://github.com/ishifoev/CodeChalenge-JS/tree/main/Round4/day-32)
 
