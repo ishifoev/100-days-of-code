@@ -259,3 +259,12 @@ teams programmers complete against each other. Only two teams complete against e
 
 **Link to Work**: [Longest Peak](https://github.com/ishifoev/CodeChalenge-JS/tree/main/Round4/day-31)
 
+
+### R1D32 Feb 23, 2022
+
+**Today Progress** Working with Array of Products. Write function that takes is non empty array integers an array of the same length, where each element in the output array is equal to the product of every number in the input array.
+
+**Thoghts** I am feeling need to do more work and never give up Ismoil.
+
+**Link to Work**: [Longest Peak](https://github.com/ishifoev/CodeChalenge-JS/tree/main/Round4/day-32)
+
