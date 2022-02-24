@@ -268,3 +268,11 @@ teams programmers complete against each other. Only two teams complete against e
 
 **Link to Work**: [Array of Products](https://github.com/ishifoev/CodeChalenge-JS/tree/main/Round4/day-32)
 
+### R1D33 Feb 24, 2022
+
+**Today Progress** Working with First Duplicate value. Give an array of integeres between 1 and n inclusive when n is length of array. Working with System Desing Topic Peer-To-Peer Networks. 
+
+**Thoghts** I understand more information. I am feeling great.
+
+**Link to Work**: [First Duplicate value and Peer to Peer Networks](https://github.com/ishifoev/CodeChalenge-JS/tree/main/Round4/day-33)
+
