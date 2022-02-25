@@ -276,3 +276,11 @@ teams programmers complete against each other. Only two teams complete against e
 
 **Link to Work**: [First Duplicate value and Peer to Peer Networks](https://github.com/ishifoev/CodeChalenge-JS/tree/main/Round4/day-33)
 
+### R1D34 Feb 25, 2022
+
+**Today Progress** Working with Merge Overlapping Intervals. Write functions, that takes is non empty array of arbitrary intervals, merges any overlapping intervals and returns the new intervals in no particular order. System Design Topic Polling and Streaming start, but not finished yet.
+
+**Thoghts** More complicated, but I will understand. Feel good, need more practice.
+
+**Link to Work**: [Merge Overlapping Interval](https://github.com/ishifoev/CodeChalenge-JS/tree/main/Round4/day-34)
+
