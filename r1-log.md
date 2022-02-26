@@ -284,3 +284,10 @@ teams programmers complete against each other. Only two teams complete against e
 
 **Link to Work**: [Merge Overlapping Interval](https://github.com/ishifoev/CodeChalenge-JS/tree/main/Round4/day-34)
 
+### R1D35 Feb 26, 2022
+
+**Today Progress** Working with BST(Binary Search Tree). Three methods that I used contains, insert and remove. Class BST have a left and right pointer and value. If you are see how looking BST it is something like a actual tree with leafs.
+
+**Thoghts** More complicated, but I will understand. Feel good, need more practice.
+
+**Link to Work**: [Binary Search Tree](https://github.com/ishifoev/CodeChalenge-JS/tree/main/Round4/day-35)
