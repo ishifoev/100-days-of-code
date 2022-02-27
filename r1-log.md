@@ -291,3 +291,11 @@ teams programmers complete against each other. Only two teams complete against e
 **Thoghts** More complicated, but I will understand. Feel good, need more practice.
 
 **Link to Work**: [Binary Search Tree](https://github.com/ishifoev/CodeChalenge-JS/tree/main/Round4/day-35)
+
+### R1D36 Feb 27, 2022
+
+**Today Progress** Working with Validate BST. Write function that takes is potentually invalid a binary search tree and return boolean representing whether the BST is valid. Polling and Streming System Design Topic
+
+**Thoghts** Very interesting part is passing go ahead.
+
+**Link to Work**: [Validate BST, Polling and Streaming](https://github.com/ishifoev/CodeChalenge-JS/tree/main/Round4/day-36)
