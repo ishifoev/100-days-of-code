@@ -299,3 +299,11 @@ teams programmers complete against each other. Only two teams complete against e
 **Thoghts** Very interesting part is passing go ahead.
 
 **Link to Work**: [Validate BST, Polling and Streaming](https://github.com/ishifoev/CodeChalenge-JS/tree/main/Round4/day-36)
+
+### R1D37 Feb 28, 2022
+
+**Today Progress** Working with BST Traversal. Write three functions that take Binary Search Tree an empty array traverse the BST add its nodes' values to the input array and return the array. System Desing Configuration JSON, YAML 
+
+**Thoghts** I feel more comfortable today. I think it can be very good.
+
+**Link to Work**: [BST Traversal and Configuration](https://github.com/ishifoev/CodeChalenge-JS/tree/main/Round4/day-37)
