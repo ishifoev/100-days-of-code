@@ -315,3 +315,11 @@ teams programmers complete against each other. Only two teams complete against e
 **Thoghts** I feel more sleepy today.
 
 **Link to Work**: [Min Height BST](https://github.com/ishifoev/CodeChalenge-JS/tree/main/Round4/day-38)
+
+### R1D39 Mar 1, 2022
+
+**Today Progress** working with Find Kth Largest value in BST.Write function that takes binary search tree and positive integer k and return kth largest integer contained in the BST. System Design Rate limiting very powerfull topic.
+
+**Thoghts** I feel good nice have working
+
+**Link to Work**: [Min Height BST](https://github.com/ishifoev/CodeChalenge-JS/tree/main/Round4/day-39)
