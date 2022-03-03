@@ -316,10 +316,18 @@ teams programmers complete against each other. Only two teams complete against e
 
 **Link to Work**: [Min Height BST](https://github.com/ishifoev/CodeChalenge-JS/tree/main/Round4/day-38)
 
-### R1D39 Mar 1, 2022
+### R1D39 Mar 2, 2022
 
 **Today Progress** working with Find Kth Largest value in BST.Write function that takes binary search tree and positive integer k and return kth largest integer contained in the BST. System Design Rate limiting very powerfull topic.
 
 **Thoghts** I feel good nice have working
 
 **Link to Work**: [Min Height BST](https://github.com/ishifoev/CodeChalenge-JS/tree/main/Round4/day-39)
+
+### R1D40 Mar 3, 2022
+
+**Today Progress** Working with Reconstruct BST. Givee an non empty array of integers representing the pre order traversal binary search tree write functions that creates the relevant BST and returns its root node.
+
+**Thoghts** I feel pretty much good, but very large topic that take time to understand it take 40 days pass, but need some topic pass twice to understand more good.
+
+**Link to Work**: [Reconstruct BST](https://github.com/ishifoev/CodeChalenge-JS/tree/main/Round4/day-39)**Link to Work**: [Min Height BST](https://github.com/ishifoev/CodeChalenge-JS/tree/main/Round5/day-40)
