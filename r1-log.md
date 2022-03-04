@@ -330,4 +330,18 @@ teams programmers complete against each other. Only two teams complete against e
 
 **Thoghts** I feel pretty much good, but very large topic that take time to understand it take 40 days pass, but need some topic pass twice to understand more good.
 
-**Link to Work**: [Reconstruct BST](https://github.com/ishifoev/CodeChalenge-JS/tree/main/Round4/day-39)**Link to Work**: [Min Height BST](https://github.com/ishifoev/CodeChalenge-JS/tree/main/Round5/day-40)
+**Link to Work**: [Reconstruct BST](https://github.com/ishifoev/CodeChalenge-JS/tree/main/Round5/day-40)
+
+### R1D41 Mar 3, 2022
+
+
+**Today Progress** Write a function that takes in a Binary Tree and inverts it. In other words, the function should swap every left node in the tree for its
+corresponding right node. Logging And Monitoring System Design Topic
+
+**Thoghts** I feel pretty much that I come for difficult solutions, but I think I will grow up see come to first 50 questions.
+
+**Link to Work**: [Invert Binary Tree, Logging and Monitoring](https://github.com/ishifoev/CodeChalenge-JS/tree/main/Round5/day-40)
+
+
+
+
