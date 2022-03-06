@@ -339,15 +339,15 @@ corresponding right node. Logging And Monitoring System Design Topic
 
 **Thoghts** I feel pretty much that I come for difficult solutions, but I think I will grow up see come to first 50 questions.
 
-**Link to Work**: [Invert Binary Tree, Logging and Monitoring](https://github.com/ishifoev/CodeChalenge-JS/tree/main/Round5/day-40)
+**Link to Work**: [Invert Binary Tree, Logging and Monitoring](https://github.com/ishifoev/CodeChalenge-JS/tree/main/Round5/day-41)
 
-### R1D41 Mar 5, 2022
+### R1D42 Mar 5, 2022
 
 **Today Progress** Working with Binary Tree Diameter. Write a function that takes in a Binary Tree and returns its diameter.The diameter of a binary tree is defined as the length of its longest path, even if that path doesn't pass through the root of the tree
 
 **Thoghts** Very hard working
 
-**Link to Work** [Binary Tree Diameter](https://github.com/ishifoev/CodeChalenge-JS/tree/main/Round5/day-41)
+**Link to Work** [Binary Tree Diameter](https://github.com/ishifoev/CodeChalenge-JS/tree/main/Round5/day-42)
 
 
 
