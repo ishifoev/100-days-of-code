@@ -350,5 +350,11 @@ corresponding right node. Logging And Monitoring System Design Topic
 **Link to Work** [Binary Tree Diameter](https://github.com/ishifoev/CodeChalenge-JS/tree/main/Round5/day-42)
 
 
+### R1D43 Mar 6, 2022
 
+**Today Progress** Working with Find Successor Write a function that takes in a Binary Tree (where nodes have an additional pointer to their parent node) as well as a node contained in that tree and returns the given node's successor.
+
+**Thoghts** Very hard working
+
+**Link to Work** [Binary Tree Diameter](https://github.com/ishifoev/CodeChalenge-JS/tree/main/Round5/day-43)
 
