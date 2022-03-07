@@ -358,3 +358,12 @@ corresponding right node. Logging And Monitoring System Design Topic
 
 **Link to Work** [Binary Tree Diameter](https://github.com/ishifoev/CodeChalenge-JS/tree/main/Round5/day-43)
 
+### R1D44 Mar 7, 2022
+
+**Today Progress** Working with Height Balanced Binary Tree. You're given the root node of a Binary Tree. Write a function that returns true if this Binary Tree is height balanced and false if it isn't. System Design Topic Subscribe/Publisher Pattern.
+
+**Thoghts** Very intreesting.
+
+**Link to Work** [Height Balanced Binary Tree, Subscribe/Publisher Pattern](https://github.com/ishifoev/CodeChalenge-JS/tree/main/Round5/day-44)
+
+
