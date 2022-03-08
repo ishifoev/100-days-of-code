@@ -366,4 +366,11 @@ corresponding right node. Logging And Monitoring System Design Topic
 
 **Link to Work** [Height Balanced Binary Tree, Subscribe/Publisher Pattern](https://github.com/ishifoev/CodeChalenge-JS/tree/main/Round5/day-44)
 
+### R1D45 Mar 8, 2022
+
+**Today Progress** Working with Max Subset Sum No Adjacent. Write a function that takes in an array of positive integers and returns the maximum sum of non-adjacent elements in the array. If the input array is empty, the function should return 0
+
+**Thoghts** I think I have more go to the advanced topic and it is very excited journey.
+
+**Link to Work** [Max Subset Sum No Adjacent](https://github.com/ishifoev/CodeChalenge-JS/tree/main/Round5/day-45)
 
