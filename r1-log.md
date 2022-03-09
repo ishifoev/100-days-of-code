@@ -374,3 +374,12 @@ corresponding right node. Logging And Monitoring System Design Topic
 
 **Link to Work** [Max Subset Sum No Adjacent](https://github.com/ishifoev/CodeChalenge-JS/tree/main/Round5/day-45)
 
+### R1D46 Mar 9, 2022
+
+**Today Progress** Working with Number Of Ways To Make Change Given an array of distinct positive integers representing coin denominations and a single non-negative integer n representing a target amount of money, write a function that returns the number of ways to make change for that target amount using the given coin denominations.
+
+**Thoghts** I think I have more go to the advanced topic and it is very excited journey.
+
+**Link to Work** [Max Subset Sum No Adjacent](https://github.com/ishifoev/CodeChalenge-JS/tree/main/Round5/day-46)
+
+
