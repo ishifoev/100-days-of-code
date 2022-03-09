@@ -380,6 +380,6 @@ corresponding right node. Logging And Monitoring System Design Topic
 
 **Thoghts** I think I have more go to the advanced topic and it is very excited journey.
 
-**Link to Work** [Max Subset Sum No Adjacent](https://github.com/ishifoev/CodeChalenge-JS/tree/main/Round5/day-46)
+**Link to Work** [Number Of Ways To Make Change](https://github.com/ishifoev/CodeChalenge-JS/tree/main/Round5/day-46)
 
 
