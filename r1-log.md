@@ -382,4 +382,10 @@ corresponding right node. Logging And Monitoring System Design Topic
 
 **Link to Work** [Number Of Ways To Make Change](https://github.com/ishifoev/CodeChalenge-JS/tree/main/Round5/day-46)
 
+#### R1D47 Mar 10, 2022
 
+**Today Progress** Min Number Of Coins For Change Given an array of positive integers representing coin denominations and a single non-negative integer n representing a target amount of money. System Design Map Reduce Topic.
+
+**Thoghts** I think have a good progress.
+
+**Link to Work** [Min Number Of Coins For Change, Map Reduce](https://github.com/ishifoev/CodeChalenge-JS/tree/main/Round5/day-47)
