@@ -389,3 +389,11 @@ corresponding right node. Logging And Monitoring System Design Topic
 **Thoghts** I think have a good progress.
 
 **Link to Work** [Min Number Of Coins For Change, Map Reduce](https://github.com/ishifoev/CodeChalenge-JS/tree/main/Round5/day-47)
+
+#### R1D48 Mar 11, 2022
+
+**Today Progress** Levenshtein Distance Write a function that takes in two strings and returns the minimum number of edit operations that need to be performed on the first string to obtain the second string
+
+**Thoghts** I think have a very difficulty and not a mood.
+
+**Link to Work**  [Levenshtein Distance](https://github.com/ishifoev/CodeChalenge-JS/tree/main/Round5/day-48)
