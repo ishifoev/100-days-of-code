@@ -397,3 +397,11 @@ corresponding right node. Logging And Monitoring System Design Topic
 **Thoghts** I think have a very difficulty and not a mood.
 
 **Link to Work**  [Levenshtein Distance](https://github.com/ishifoev/CodeChalenge-JS/tree/main/Round5/day-48)
+
+### R1D49 Mar12, 2022
+
+**Today Progress** Number Of Ways To Traverse Graph You're given two positive integers representing the width and height of a grid-shaped, rectangular graph. Write a function that returns the number of ways to reach the bottom right corner of the graph when starting at the top left corner
+
+**Thoghts** I feel good that the part of the journey will finish and I not give up in my journey.
+
+**Link to Work**  [Number Of Ways To Traverse](https://github.com/ishifoev/CodeChalenge-JS/tree/main/Round5/day-49)
