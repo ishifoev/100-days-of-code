@@ -405,3 +405,12 @@ corresponding right node. Logging And Monitoring System Design Topic
 **Thoghts** I feel good that the part of the journey will finish and I not give up in my journey.
 
 **Link to Work**  [Number Of Ways To Traverse](https://github.com/ishifoev/CodeChalenge-JS/tree/main/Round5/day-49)
+
+### R1D50 Mar13, 2022
+
+**Today Progress** Kadane's Algorithm Write a function that takes in a non-empty array of integers and returns the maximum sum that can be obtained by summing up all of
+the integers in a non-empty subarray of the input array.
+
+**Thoghts** Very interesting journey the part of 50 days is pass and I am very proud that I don't give up.
+
+**Link to Work**  [Kadane's Algorithm](https://github.com/ishifoev/CodeChalenge-JS/tree/main/Round5/day-50)
