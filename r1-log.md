@@ -414,3 +414,11 @@ the integers in a non-empty subarray of the input array.
 **Thoghts** Very interesting journey the part of 50 days is pass and I am very proud that I don't give up.
 
 **Link to Work**  [Kadane's Algorithm](https://github.com/ishifoev/CodeChalenge-JS/tree/main/Round5/day-50)
+
+### R1D51 Mar 14
+
+**Today Progress** Single Cycle Check You're given an array of integers where each integer represents a jump of its value in the array.  System Design Security And HTTPS topic awesome.
+
+**Thoghts** Amazing day.
+
+**Link to Work**  [Single Cycle, System Design Security And HTTPS](https://github.com/ishifoev/CodeChalenge-JS/tree/main/Round6/day-51)
