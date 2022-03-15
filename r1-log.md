@@ -422,3 +422,11 @@ the integers in a non-empty subarray of the input array.
 **Thoghts** Amazing day.
 
 **Link to Work**  [Single Cycle, System Design Security And HTTPS](https://github.com/ishifoev/CodeChalenge-JS/tree/main/Round6/day-51)
+
+### R1D52 Mar 15
+
+**Today Progress** Breadth-first Search You're given a Node class that has a name and an array of optional children nodes. When put together, nodes form an acyclic treelike structure.
+
+**Thoghts** Keep continue going.
+
+**Link to Work** [Breadth-first Search] (https://github.com/ishifoev/CodeChalenge-JS/tree/main/Round6/day-52)
