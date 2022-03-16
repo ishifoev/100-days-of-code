@@ -430,3 +430,13 @@ the integers in a non-empty subarray of the input array.
 **Thoghts** Keep continue going.
 
 **Link to Work** [Breadth-first Search] (https://github.com/ishifoev/CodeChalenge-JS/tree/main/Round6/day-52)
+
+### R1D53 Mar 16
+
+**Today Progress** River Sizes You're given a two-dimensional array (a matrix) of potentially unequal height and width containing only 0 s and 1 s. Each 0 represents land,
+and each 1 represents part of a river.
+
+**Thoghts** Very hard algorirtm I think so for understanding.
+
+
+**Link to Work** [River sizes] (https://github.com/ishifoev/CodeChalenge-JS/tree/main/Round6/day-53)
