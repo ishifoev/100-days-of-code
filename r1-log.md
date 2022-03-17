@@ -440,3 +440,13 @@ and each 1 represents part of a river.
 
 
 **Link to Work** [River sizes] (https://github.com/ishifoev/CodeChalenge-JS/tree/main/Round6/day-53)
+
+### R1D54 Mar 17
+
+**Today Progress** Youngest Common Ancestor You're given three inputs, all of which are instances of an AncestralTree class that have an ancestor property pointing
+to their youngest ancestor. API Design System Design Topic last one amazing course.
+
+**Thoghts** Very cool that I am going to high algoritms.
+
+**Link to Work** [Youngest Common Ancestor, API Design] (https://github.com/ishifoev/CodeChalenge-JS/tree/main/Round6/day-54)
+
