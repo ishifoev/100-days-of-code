@@ -450,3 +450,11 @@ to their youngest ancestor. API Design System Design Topic last one amazing cour
 
 **Link to Work** [Youngest Common Ancestor, API Design] (https://github.com/ishifoev/CodeChalenge-JS/tree/main/Round6/day-54)
 
+### R1D55 Mar 18
+
+**Today Progress**  Remove Islands Write a function that returns a modified version of the input matrix, where all of the islands are removed. You remove an island by replacing it with 0 s.
+
+**Thoghts** Medium questions is very hard to understand, but it is good.
+
+**Link to Work** [Remove Islands] (https://github.com/ishifoev/CodeChalenge-JS/tree/main/Round6/day-55)
+
