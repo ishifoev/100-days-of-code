@@ -464,5 +464,5 @@ to their youngest ancestor. API Design System Design Topic last one amazing cour
 
 **Thoghts** Medium questions is very hard to understand, but it is good.
 
-**Link to Work** [Remove Islands] (https://github.com/ishifoev/CodeChalenge-JS/tree/main/Round6/day-56)
+**Link to Work** [Cycle In Graph] (https://github.com/ishifoev/CodeChalenge-JS/tree/main/Round6/day-56)
 
