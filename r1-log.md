@@ -458,3 +458,11 @@ to their youngest ancestor. API Design System Design Topic last one amazing cour
 
 **Link to Work** [Remove Islands] (https://github.com/ishifoev/CodeChalenge-JS/tree/main/Round6/day-55)
 
+### R1D56 Mar 19
+
+**Today Progress** Cycle In Graph You're given a list of edges representing an unweighted, directed graph with at least one node. Write a function that returns a boolean representing whether the given graph contains a cycle.
+
+**Thoghts** Medium questions is very hard to understand, but it is good.
+
+**Link to Work** [Remove Islands] (https://github.com/ishifoev/CodeChalenge-JS/tree/main/Round6/day-56)
+
