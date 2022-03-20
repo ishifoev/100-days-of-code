@@ -466,3 +466,10 @@ to their youngest ancestor. API Design System Design Topic last one amazing cour
 
 **Link to Work** [Cycle In Graph] (https://github.com/ishifoev/CodeChalenge-JS/tree/main/Round6/day-56)
 
+### R1D57 Mar 20, 2022
+
+**Today Progress** Minimum Passes Of Matrix Write a function that takes in an integer matrix of potentially unequal height and width and returns the minimum number of passes required to convert all negative integers in the matrix to positive integers.
+
+**Thoghts** Hard is go from medium questions, but I will never give up.
+
+**Link to Work** [Minimum Passes Of Matrix] (https://github.com/ishifoev/CodeChalenge-JS/tree/main/Round6/day-57)
