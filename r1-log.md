@@ -473,3 +473,11 @@ to their youngest ancestor. API Design System Design Topic last one amazing cour
 **Thoghts** Hard is go from medium questions, but I will never give up.
 
 **Link to Work** [Minimum Passes Of Matrix] (https://github.com/ishifoev/CodeChalenge-JS/tree/main/Round6/day-57)
+
+### R1D58 Mar 21, 2022
+
+**Today Progress** Task Assignment Write a function that returns the optimal assignment of tasks to each worker such that the tasks are completed as fast as possible.
+
+**Thoghts** I will never give up keep going to preprare to interview, sometimes is hard to understand.
+
+**Link to Work** [Task Assignment] (https://github.com/ishifoev/CodeChalenge-JS/tree/main/Round6/day-58)
