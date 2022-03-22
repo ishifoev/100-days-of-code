@@ -481,3 +481,12 @@ to their youngest ancestor. API Design System Design Topic last one amazing cour
 **Thoghts** I will never give up keep going to preprare to interview, sometimes is hard to understand.
 
 **Link to Work** [Task Assignment] (https://github.com/ishifoev/CodeChalenge-JS/tree/main/Round6/day-58)
+
+### R1D59 Mar 22, 2022
+
+**Today Progress** Valid Starting City Imagine you have a set of cities that are laid out in a circle, connected by a circular road that runs clockwise.  Each city has
+a gas station that provides gallons of fuel, and each city is some distance away from the next city.
+
+**Thoghts** Very interesting and keep going.
+
+**Link to Work** [Valid Starting City] (https://github.com/ishifoev/CodeChalenge-JS/tree/main/Round6/day-59)
