@@ -490,3 +490,16 @@ a gas station that provides gallons of fuel, and each city is some distance away
 **Thoghts** Very interesting and keep going.
 
 **Link to Work** [Valid Starting City] (https://github.com/ishifoev/CodeChalenge-JS/tree/main/Round6/day-59)
+
+### R1D60 Mar 23, 2022
+
+**Today progress** Min Heap Construction
+Implement a MinHeap class that supports:
+Building a Min Heap from an input array of integers.
+Inserting integers in the heap.
+Removing the heap's minimum / root value.
+Peeking at the heap's minimum / root value 
+
+**Thoghts** 60 days pass, but medium question is very hard to understand will try and see.
+
+**Link to Work** [Min Heap Construction] (https://github.com/ishifoev/CodeChalenge-JS/tree/main/Round7/day-60)
