@@ -503,3 +503,19 @@ Peeking at the heap's minimum / root value
 **Thoghts** 60 days pass, but medium question is very hard to understand will try and see.
 
 **Link to Work** [Min Heap Construction] (https://github.com/ishifoev/CodeChalenge-JS/tree/main/Round7/day-60)
+
+### R1D61 Mar 24, 2022
+
+**Today Progress** Linked List Construction
+Write a DoublyLinkedList class that has a head and a tail ,
+both of which point to either a linked list Node or None / null .
+The class should support:
+Setting the head and tail of the linked list.
+Inserting nodes before and after other nodes as well as at
+given positions (the position of the head node is 1 ).
+Removing given nodes and removing nodes with given values.
+Searching for nodes with given values
+
+**Thoghts** I will never give up keep going to preprare to interview, sometimes is hard to understand.
+
+**Link to Work** [Linked List] (https://github.com/ishifoev/CodeChalenge-JS/tree/main/Round7/day-61)
