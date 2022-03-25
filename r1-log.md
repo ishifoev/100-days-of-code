@@ -519,3 +519,13 @@ Searching for nodes with given values
 **Thoghts** I will never give up keep going to preprare to interview, sometimes is hard to understand.
 
 **Link to Work** [Linked List] (https://github.com/ishifoev/CodeChalenge-JS/tree/main/Round7/day-61)
+
+### R1D62 Mar 25, 2022
+
+**Today Progress** Remove Kth Node From End
+Write a function that takes in the head of a Singly Linked List and an
+integer k and removes the kth node from the end of the list
+
+**Thoughts** We are go to medium questions finish up and it is very hard to understand but I will.
+
+**Link to Work** [Remove NTH Node From End] (https://github.com/ishifoev/CodeChalenge-JS/tree/main/Round7/day-62)
