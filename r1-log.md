@@ -529,3 +529,12 @@ integer k and removes the kth node from the end of the list
 **Thoughts** We are go to medium questions finish up and it is very hard to understand but I will.
 
 **Link to Work** [Remove NTH Node From End] (https://github.com/ishifoev/CodeChalenge-JS/tree/main/Round7/day-62)
+
+### R1D63 Mar 26, 2022
+
+**Today Progress** Sum of Linked Lists
+You're given two Linked Lists of potentially unequal length. Each Linked List represents a non-negative integer, where each node in the Linked List is a digit of that integer, and the first node in each Linked.
+
+**Thoughts** I feel good, that understand more things, that I do every day.
+
+**Link to Work** [Sum of Linked Lists] (https://github.com/ishifoev/CodeChalenge-JS/tree/main/Round7/day-63)
