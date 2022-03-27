@@ -538,3 +538,17 @@ You're given two Linked Lists of potentially unequal length. Each Linked List re
 **Thoughts** I feel good, that understand more things, that I do every day.
 
 **Link to Work** [Sum of Linked Lists] (https://github.com/ishifoev/CodeChalenge-JS/tree/main/Round7/day-63)
+
+### R1D64 Mar 27, 2022
+
+**Today Progress** Permutations
+Write a function that takes in an array of unique integers
+and returns an array of all permutations of those integers
+in no particular order.
+If the input array is empty, the function should return an
+empty array.
+
+**Thoughts** I feel good, that understand more things, that I do every day.
+
+**Link to Work** [Sum of Linked Lists] (https://github.com/ishifoev/CodeChalenge-JS/tree/main/Round7/day-64)
+
