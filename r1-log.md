@@ -552,3 +552,13 @@ empty array.
 
 **Link to Work** [Sum of Linked Lists] (https://github.com/ishifoev/CodeChalenge-JS/tree/main/Round7/day-64)
 
+### R1D65 Mar 28, 2022
+
+**Today Progress** Powerset
+Write a function that takes in an array of unique integers and returns its powerset.
+The powerset P(X) of a set X is the set of all subsets of X .
+
+**Thoughts** Have a good progress
+
+**Link to Work** [Powerset] (https://github.com/ishifoev/CodeChalenge-JS/tree/main/Round7/day-65)
+
