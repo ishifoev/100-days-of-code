@@ -562,3 +562,13 @@ The powerset P(X) of a set X is the set of all subsets of X .
 
 **Link to Work** [Powerset] (https://github.com/ishifoev/CodeChalenge-JS/tree/main/Round7/day-65)
 
+### R1D66 Mar 29, 2022
+
+**Today Progress** Phone Number Mnemonics 
+Almost every digit is associated with some letters in the alphabet; this
+allows certain phone numbers to spell out actual words. For example,
+the phone number 8464747328 can be written as timisgreat 
+
+**Thoughts** I think I am going to my goal need to be patient.
+
+**Link to Work** [Phone Number Mnemonics] (https://github.com/ishifoev/CodeChalenge-JS/tree/main/Round7/day-66)
