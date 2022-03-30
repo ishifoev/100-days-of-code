@@ -572,3 +572,11 @@ the phone number 8464747328 can be written as timisgreat
 **Thoughts** I think I am going to my goal need to be patient.
 
 **Link to Work** [Phone Number Mnemonics] (https://github.com/ishifoev/CodeChalenge-JS/tree/main/Round7/day-66)
+
+### R1D67 Mar 30, 2022
+
+**Today Progress** Staircase Traversal You're given two positive integers representing the height of  staircase and the maximum number of steps that you can advance up the staircase at a time. Write a function that returns the numberof ways in which you can climb the staircase
+
+**Thoughts** I think I am going to my goal need to be patient.
+
+**Link to Work** [Phone Number Mnemonics] (https://github.com/ishifoev/CodeChalenge-JS/tree/main/Round7/day-67)
