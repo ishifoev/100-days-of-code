@@ -580,3 +580,15 @@ the phone number 8464747328 can be written as timisgreat
 **Thoughts** I think I am going to my goal need to be patient.
 
 **Link to Work** [Phone Number Mnemonics] (https://github.com/ishifoev/CodeChalenge-JS/tree/main/Round7/day-67)
+
+### R1D68 Mar 31, 2022
+
+**Today Progress** Search In Sorted Matrix
+You're given a two-dimensional array (a matrix) of distinct integers
+Write a function that returns an array of the row and column indices
+of the target integer if it's contained in the matrix, otherwise
+[-1, -1] .
+
+**Thoughts** Never give up.
+
+**Link to Work** [Search In Sorted Matrix](https://github.com/ishifoev/CodeChalenge-JS/tree/main/Round7/day-68)
