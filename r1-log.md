@@ -592,3 +592,11 @@ of the target integer if it's contained in the matrix, otherwise
 **Thoughts** Never give up.
 
 **Link to Work** [Search In Sorted Matrix](https://github.com/ishifoev/CodeChalenge-JS/tree/main/Round7/day-68)
+
+### R1D69 Apr 1, 2022
+
+**Today Progress** Three Number Sort You're given an array of integers and another array of three distinct integers. Write a function that sorts the first array according to the desired order in the second array.
+
+**Thoghts** Keep going.
+
+**Link to Work** [Three Number Sort](https://github.com/ishifoev/CodeChalenge-JS/tree/main/Round7/day-69)
