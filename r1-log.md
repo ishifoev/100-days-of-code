@@ -600,3 +600,15 @@ of the target integer if it's contained in the matrix, otherwise
 **Thoghts** Keep going.
 
 **Link to Work** [Three Number Sort](https://github.com/ishifoev/CodeChalenge-JS/tree/main/Round7/day-69)
+
+### R1D70 Apr 2, 2022
+
+**Today Progress** Min Max Stack Construction
+Write a MinMaxStack class for a Min Max Stack. The class should
+support:
+Pushing and popping values on and off the stack.
+Peeking at the value at the top of the stack.
+
+**Thoghts** 70 days is going I think I have a progress and learning a lot need more patient and journey will do us happy not a goal.
+
+**Link to Work** [Min Max Stack Construction](https://github.com/ishifoev/CodeChalenge-JS/tree/main/Round8/day-70)
