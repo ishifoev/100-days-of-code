@@ -612,3 +612,15 @@ Peeking at the value at the top of the stack.
 **Thoghts** 70 days is going I think I have a progress and learning a lot need more patient and journey will do us happy not a goal.
 
 **Link to Work** [Min Max Stack Construction](https://github.com/ishifoev/CodeChalenge-JS/tree/main/Round8/day-70)
+
+### R1D71 Apr 3, 2022
+
+**Today Progress** Balanced Brackets
+Write a function that takes in a string made up of brackets ( ( , [ ,
+{ , ) , ] , and } ) and other optional characters. The function
+should return a boolean representing whether the string is balanced
+with regards to brackets
+
+**Thoghts** Very nice feeling
+
+**Link to Work** [Balanced Bracketsn](https://github.com/ishifoev/CodeChalenge-JS/tree/main/Round8/day-71)
