@@ -623,4 +623,15 @@ with regards to brackets
 
 **Thoghts** Very nice feeling
 
-**Link to Work** [Balanced Bracketsn](https://github.com/ishifoev/CodeChalenge-JS/tree/main/Round8/day-71)
+**Link to Work** [Balanced Brackets](https://github.com/ishifoev/CodeChalenge-JS/tree/main/Round8/day-71)
+
+### R1D72 Apr 4, 2022
+
+**Today Progress** Sunset Views
+Given an array of buildings and a direction that all of the buildings
+face, return an array of the indices of the buildings that can see the
+sunset.
+
+**Thoghts** Never give up we have a progress.
+
+**Link to Work** [Sunset Views](https://github.com/ishifoev/CodeChalenge-JS/tree/main/Round8/day-72)
