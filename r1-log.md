@@ -635,3 +635,14 @@ sunset.
 **Thoghts** Never give up we have a progress.
 
 **Link to Work** [Sunset Views](https://github.com/ishifoev/CodeChalenge-JS/tree/main/Round8/day-72)
+
+### R1D73 Apr 5, 2022
+
+**Today Progress** Sort Stack
+Write a function that takes in an array of integers representing a
+stack, recursively sorts the stack in place (i.e., doesn't create a brand
+new array), and returns it
+
+**Thoughts** Keep going
+
+**Link to Work** [Sort Stack](https://github.com/ishifoev/CodeChalenge-JS/tree/main/Round8/day-73)
