@@ -646,3 +646,18 @@ new array), and returns it
 **Thoughts** Keep going
 
 **Link to Work** [Sort Stack](https://github.com/ishifoev/CodeChalenge-JS/tree/main/Round8/day-73)
+
+### R1D74 Apr 6, 2022
+
+**Today Progress** Next Greater Element
+Write a function that takes in an array of integers and returns a new
+array containing, at each index, the next element in the input array
+that's greater than the element at that index in the input array.
+
+**Thoughts** Have a good progress
+
+
+**Link to Work** [Next Greater Element](https://github.com/ishifoev/CodeChalenge-JS/tree/main/Round8/day-74)
+
+
+
