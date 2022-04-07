@@ -660,4 +660,14 @@ that's greater than the element at that index in the input array.
 **Link to Work** [Next Greater Element](https://github.com/ishifoev/CodeChalenge-JS/tree/main/Round8/day-74)
 
 
+### R1D75 Apr 7, 2022
 
+**Today Progress** Longest Palindromic Substring
+Write a function that, given a string, returns its longest palindromic
+substring.
+A palindrome is defined as a string that's written the same forward
+and backward. Note that single-character strings are palindromes.
+
+**Thoughts** Day 75 is good I go so far neeed keep going and repeat some questions for more understanding.
+
+**Link to Work** [Next Greater Element](https://github.com/ishifoev/CodeChalenge-JS/tree/main/Round8/day-75)
