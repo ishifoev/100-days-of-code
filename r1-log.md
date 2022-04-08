@@ -671,3 +671,13 @@ and backward. Note that single-character strings are palindromes.
 **Thoughts** Day 75 is good I go so far neeed keep going and repeat some questions for more understanding.
 
 **Link to Work** [Next Greater Element](https://github.com/ishifoev/CodeChalenge-JS/tree/main/Round8/day-75)
+
+### R1D76 Apr 8, 2022
+
+**Today Progress** Group Anagrams
+Write a function that takes in an array of strings and groups anagrams together.Anagrams are strings made up of exactly the same letters, whereorder doesn't matter. For example, "cinema" and "iceman" are
+anagrams.
+
+**Thoughts** Have a good progress.
+
+**Link to Work** [Group Anagrams](https://github.com/ishifoev/CodeChalenge-JS/tree/main/Round8/day-76)
