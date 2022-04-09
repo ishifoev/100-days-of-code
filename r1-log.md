@@ -681,3 +681,14 @@ anagrams.
 **Thoughts** Have a good progress.
 
 **Link to Work** [Group Anagrams](https://github.com/ishifoev/CodeChalenge-JS/tree/main/Round8/day-76)
+
+### R1D77 Apr 9, 2022
+
+**Today Progress** Valid IP Addresses
+You're given a string of length 12 or smaller, containing only digits.
+Write a function that returns all the possible IP addresses that can be
+created by inserting three . s in the string.
+
+**Thoughts** Very good task part and yes understand is coming and need more time to search more details.
+
+**Link to Work** [Valid IP Addresses](https://github.com/ishifoev/CodeChalenge-JS/tree/main/Round8/day-77)
