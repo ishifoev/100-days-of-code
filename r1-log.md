@@ -692,3 +692,13 @@ created by inserting three . s in the string.
 **Thoughts** Very good task part and yes understand is coming and need more time to search more details.
 
 **Link to Work** [Valid IP Addresses](https://github.com/ishifoev/CodeChalenge-JS/tree/main/Round8/day-77)
+
+### R1D78 Apr 10, 2022
+
+**Today Progress** Reverse Words In String
+Write a function that takes in a string of words separated by one or more whitespaces and returns a string that has these words in reverse order. For example, given the string "tim is great" ,your function should return "great is tim".
+
+**Thoughts** Keep working never give up
+
+**Link to Work** [Reverse Words In String](https://github.com/ishifoev/CodeChalenge-JS/tree/main/Round8/day-78)
+
