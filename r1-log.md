@@ -702,3 +702,14 @@ Write a function that takes in a string of words separated by one or more whites
 
 **Link to Work** [Reverse Words In String](https://github.com/ishifoev/CodeChalenge-JS/tree/main/Round8/day-78)
 
+### R1D79, Apr 11, 2022
+
+**Today Progress** Minimum Characters For Words
+Write a function that takes in an array of words and returns the
+smallest array of characters needed to form all of the words. The
+characters don't need to be in any particular order.
+
+**Thoughts** I am just in good way 
+
+**Link to Work** [Minimum Characters For Words](https://github.com/ishifoev/CodeChalenge-JS/tree/main/Round8/day-79)
+
