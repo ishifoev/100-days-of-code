@@ -713,3 +713,18 @@ characters don't need to be in any particular order.
 
 **Link to Work** [Minimum Characters For Words](https://github.com/ishifoev/CodeChalenge-JS/tree/main/Round8/day-79)
 
+### R1D80, Apr 12, 2022
+
+**Today Progress** Suffix Trie Construction
+Write a SuffixTrie class for a Suffix-Trie-like data structure. The
+class should have a root property set to be the root node of the
+trie and should support:
+Creating the trie from a string; this will be done by calling the
+populateSuffixTrieFrom method upon class instantiation,
+which should populate the root of the class.
+
+**Thoughts** I think 80 questions is finish medium question it is really good progress, next step hard questions, but I am really glad, that I go to whole process.
+I know some working still exists 20 questions and 100 days code challenge and take time to provide more time to DS and algoritms.
+
+
+**Link to Work** [Suffix Trie Construction](https://github.com/ishifoev/CodeChalenge-JS/tree/main/Round9/day-80)
