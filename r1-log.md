@@ -728,3 +728,16 @@ I know some working still exists 20 questions and 100 days code challenge and ta
 
 
 **Link to Work** [Suffix Trie Construction](https://github.com/ishifoev/CodeChalenge-JS/tree/main/Round9/day-80)
+
+### R1D81, Apr 13, 2022
+
+**Today Progress** Four Number Sum
+Write a function that takes in a non-empty array of distinct integers
+and an integer representing a target sum. The function should find all
+quadruplets in the array that sum up to the target sum.
+#100DaysOfCode
+
+**Thoghts** Hard questions start we just start the hard part of our the way.
+
+
+**Link to Work** [Four Number Sum](https://github.com/ishifoev/CodeChalenge-JS/tree/main/Round9/day-81)
