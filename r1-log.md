@@ -741,3 +741,14 @@ quadruplets in the array that sum up to the target sum.
 
 
 **Link to Work** [Four Number Sum](https://github.com/ishifoev/CodeChalenge-JS/tree/main/Round9/day-81)
+
+### R1D82 Apr 14, 2022
+
+**Today Progress**  Subarray Sort
+Write a function that takes in an array of at least two integers and
+that returns an array of the starting and ending indices of the
+smallest subarray in the input array that needs to be sorted in place
+
+**Thoughts** Good progress
+
+**Link to Work** [Subarray Sort](https://github.com/ishifoev/CodeChalenge-JS/tree/main/Round9/day-82)
