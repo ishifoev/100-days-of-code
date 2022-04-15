@@ -752,3 +752,13 @@ smallest subarray in the input array that needs to be sorted in place
 **Thoughts** Good progress
 
 **Link to Work** [Subarray Sort](https://github.com/ishifoev/CodeChalenge-JS/tree/main/Round9/day-82)
+
+### R1D83 Apr 15, 2022
+
+**Today Progress** Largest Range Write a function that takes in an array of integers and returns an
+array of length 2 representing the largest range of integers contained
+in that array.
+
+**Thoughts** Never give up
+
+**Link to Work** [Largest Range](https://github.com/ishifoev/CodeChalenge-JS/tree/main/Round9/day-83)
