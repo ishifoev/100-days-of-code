@@ -762,3 +762,12 @@ in that array.
 **Thoughts** Never give up
 
 **Link to Work** [Largest Range](https://github.com/ishifoev/CodeChalenge-JS/tree/main/Round9/day-83)
+
+### R1D84 Apr 16, 2022
+
+**Today Progress** Min Rewards
+Imagine that you're a teacher who's just graded the final exam in a class. You have a list of student scores on the final exam in a particular order (not necessarily sorted), and you want to reward your student
+
+**Thoughts** We come to 100 question and we need more practice and see in real situation never give up.
+
+**Link to Work** [Min Rewards](https://github.com/ishifoev/CodeChalenge-JS/tree/main/Round9/day-84)
