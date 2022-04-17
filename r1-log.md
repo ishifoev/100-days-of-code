@@ -771,3 +771,15 @@ Imagine that you're a teacher who's just graded the final exam in a class. You h
 **Thoughts** We come to 100 question and we need more practice and see in real situation never give up.
 
 **Link to Work** [Min Rewards](https://github.com/ishifoev/CodeChalenge-JS/tree/main/Round9/day-84)
+
+### R1D85 Apr 17, 2022
+
+**Today Progress** Zigzag Traverse
+Write a function that takes in an n x m two-dimensional array (that
+can be square-shaped when n == m) and returns a one-dimensional
+array of all the array's elements in zigzag order
+
+**Thoughts** Very good progress
+
+**Link to Work** [Min Rewards](https://github.com/ishifoev/CodeChalenge-JS/tree/main/Round9/day-85)
+
