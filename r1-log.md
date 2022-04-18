@@ -783,3 +783,15 @@ array of all the array's elements in zigzag order
 
 **Link to Work** [Min Rewards](https://github.com/ishifoev/CodeChalenge-JS/tree/main/Round9/day-85)
 
+### R1D86 Apr 18, 2022
+
+**Today Progress** Same BSTs 
+Write a function that takes in two arrays of integers and determines
+whether these arrays represent the same BST. Note that you're not
+allowed to construct any BSTs in your code. 
+
+**Thoughts** Never give up
+
+
+**Link to Work** [Same BSTs](https://github.com/ishifoev/CodeChalenge-JS/tree/main/Round9/day-86)
+
