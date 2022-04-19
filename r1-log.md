@@ -790,8 +790,19 @@ Write a function that takes in two arrays of integers and determines
 whether these arrays represent the same BST. Note that you're not
 allowed to construct any BSTs in your code. 
 
+
 **Thoughts** Never give up
 
 
+
 **Link to Work** [Same BSTs](https://github.com/ishifoev/CodeChalenge-JS/tree/main/Round9/day-86)
+
+## R1D87 Apr 19, 2022
+
+**Today Progress** Validate Three Nodes
+ Write a function that returns a boolean representing whether one of nodeOne or nodeThree is an ancestor of nodeTwo and the other node
+ 
+ **Thoughts** I am just keep going I will succed.
+
+**Link to Work** [Validate Three Nodes](https://github.com/ishifoev/CodeChalenge-JS/tree/main/Round9/day-87)
 
