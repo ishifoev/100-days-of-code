@@ -797,7 +797,7 @@ allowed to construct any BSTs in your code.
 
 **Link to Work** [Same BSTs](https://github.com/ishifoev/CodeChalenge-JS/tree/main/Round9/day-86)
 
-## R1D87 Apr 19, 2022
+### R1D87 Apr 19, 2022
 
 **Today Progress** Validate Three Nodes
  Write a function that returns a boolean representing whether one of nodeOne or nodeThree is an ancestor of nodeTwo and the other node
@@ -806,3 +806,14 @@ allowed to construct any BSTs in your code.
 
 **Link to Work** [Validate Three Nodes](https://github.com/ishifoev/CodeChalenge-JS/tree/main/Round9/day-87)
 
+### R1D88 Apr 20, 2022
+
+**Today Progress**  Max Path Sum In Binary Tree
+Write a function that takes in a Binary Tree and returns its max path
+sum.
+A path is a collection of connected nodes in a tree, where no node is
+connected to more than two other nodes
+
+**Thoughts** This is good.
+
+**Link to Work** [Max Path Sum](https://github.com/ishifoev/CodeChalenge-JS/tree/main/Round9/day-88)
