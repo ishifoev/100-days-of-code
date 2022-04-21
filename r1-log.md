@@ -817,3 +817,12 @@ connected to more than two other nodes
 **Thoughts** This is good.
 
 **Link to Work** [Max Path Sum](https://github.com/ishifoev/CodeChalenge-JS/tree/main/Round9/day-88)
+
+### R1D89 Apr 21, 2022
+
+**Today Progress** Find Nodes Distance K
+You're given the root node of a Binary Tree, a target value of a node. Write a function that returns the values of all the nodes that are exactly distance k from the node with target value
+
+**Thoughts** Never give up Ismoil you can do it.
+
+**Link to Work** [Find Nodes Distance K](https://github.com/ishifoev/CodeChalenge-JS/tree/main/Round9/day-89)
