@@ -826,3 +826,14 @@ You're given the root node of a Binary Tree, a target value of a node. Write a f
 **Thoughts** Never give up Ismoil you can do it.
 
 **Link to Work** [Find Nodes Distance K](https://github.com/ishifoev/CodeChalenge-JS/tree/main/Round9/day-89)
+
+### R1D90 Apr 22, 2022
+
+**Today Progress** Max Sum Increasing Subsequence
+Write a function that takes in a non-empty array of integers and
+returns the greatest sum that can be generated from a strictlyincreasing subsequence in the array as well as an array of the
+numbers in that subsequence.
+
+**Thoughts** I finished 90 days code challenge, I am thinking I have a good progress do and 10 days left, and I see that need what is my next goal may be I will repeat some questions and prepare for interview the question that I missed up.
+
+**Link to Work** [Max Sum Increasing Subsequence](https://github.com/ishifoev/CodeChalenge-JS/tree/main/Round10/day-90)
