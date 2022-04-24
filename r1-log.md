@@ -847,3 +847,12 @@ common subsequence.
 **Thoughts** It is difficult, but I am never give up.
 
 **Link to Work** [Longest Common Subsequence](https://github.com/ishifoev/CodeChalenge-JS/tree/main/Round10/day-91)
+
+### R1D92 Apr 24, 2022
+
+**Today Progress** Min Number Of Jumps
+You're given a non-empty array of positive integers where each integer represents the maximum number of steps you can take forward in the array.  Write a function that returns the minimum number of jumps needed to reach the final index
+
+**Thoughts** Never give up. Keep going.
+
+**Link to Work** [Min Number Of Jumps](https://github.com/ishifoev/CodeChalenge-JS/tree/main/Round10/day-92)
