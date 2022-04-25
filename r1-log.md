@@ -856,3 +856,15 @@ You're given a non-empty array of positive integers where each integer represent
 **Thoughts** Never give up. Keep going.
 
 **Link to Work** [Min Number Of Jumps](https://github.com/ishifoev/CodeChalenge-JS/tree/main/Round10/day-92)
+
+### R1D93 Apr 25, 2022
+
+**Today Progress** Water Area
+Write a function that returns the
+surface area of the water trapped between the pillars viewed from
+the front. Note that spilled water should be ignored.
+
+**Thoughts** Keep going.
+
+**Link to Work** [Water Area](https://github.com/ishifoev/CodeChalenge-JS/tree/main/Round10/day-93)
+
