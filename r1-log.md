@@ -868,3 +868,14 @@ the front. Note that spilled water should be ignored.
 
 **Link to Work** [Water Area](https://github.com/ishifoev/CodeChalenge-JS/tree/main/Round10/day-93)
 
+### R1D94 Apr 26, 2022
+
+**Today Progress** Knapsack Problem
+Write a function that returns the maximized combined value of the
+items that you should pick as well as an array of the indices of each
+item picked.
+
+**Thoughts** I am think that questions come difficulty, but I will never give up.
+
+**Link to Work** [Knapsack Problem](https://github.com/ishifoev/CodeChalenge-JS/tree/main/Round10/day-94)
+
