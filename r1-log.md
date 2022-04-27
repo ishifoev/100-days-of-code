@@ -879,3 +879,12 @@ item picked.
 
 **Link to Work** [Knapsack Problem](https://github.com/ishifoev/CodeChalenge-JS/tree/main/Round10/day-94)
 
+
+### R1D95 Apr 27, 2022
+
+**Today Progress** Disk Stacking Write a function that returns an array of the disks in the final stack, starting with the top disk and ending with the bottom disk. 
+
+**Thoughts** Yes I have difficulties with understanding, but I will keep going I will crack interview.
+
+**Link To Work** [Disk Stacking](https://github.com/ishifoev/CodeChalenge-JS/tree/main/Round10/day-95)
+
