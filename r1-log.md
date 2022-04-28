@@ -888,3 +888,14 @@ item picked.
 
 **Link To Work** [Disk Stacking](https://github.com/ishifoev/CodeChalenge-JS/tree/main/Round10/day-95)
 
+### R1D96 Apr 28, 2022
+
+**Today Progress** Numbers In Pi
+Given a string representation of the first n digits of Pi and a list of
+positive integers (all in string format), write a function that returns
+the smallest number of spaces that can be added to the n digits of Pi 
+
+**Thoughts** Have a good progress, need to do some working
+
+**Link To Work** [Numbers In Pi](https://github.com/ishifoev/CodeChalenge-JS/tree/main/Round10/day-96)
+
