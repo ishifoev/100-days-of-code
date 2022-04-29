@@ -899,3 +899,14 @@ the smallest number of spaces that can be added to the n digits of Pi
 
 **Link To Work** [Numbers In Pi](https://github.com/ishifoev/CodeChalenge-JS/tree/main/Round10/day-96)
 
+### R1D97 Apr 29, 2022
+
+**Today Progress** Maximum Sum Submatrix
+You're given a two-dimensional array (a matrix) of potentially unequal
+height and width that's filled with integers. Write a function that returns the maximum
+sum that can be generated from a submatrix with dimensions
+size * size
+
+**Thoughts** I am keep going, and never give up.
+
+**Link To Work** [Maximum Sum Submatrix](https://github.com/ishifoev/CodeChalenge-JS/tree/main/Round10/day-97)
