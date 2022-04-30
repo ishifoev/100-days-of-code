@@ -910,3 +910,15 @@ size * size
 **Thoughts** I am keep going, and never give up.
 
 **Link To Work** [Maximum Sum Submatrix](https://github.com/ishifoev/CodeChalenge-JS/tree/main/Round10/day-97)
+
+### R1D98 Apr 30, 2022
+
+**Today Progress** Maximize Expression
+Write a function that takes in an array of integers and returns the
+largest possible value for the expression
+array[a] - array[b] + array[c] - array[d] , where a ,
+b , c , and d are indices of the array and a < b < c < d .
+
+**Thoughts** Keep going, never give up left 2 days.
+
+**Link To Work** [Maximize Expression](https://github.com/ishifoev/CodeChalenge-JS/tree/main/Round10/day-98)
