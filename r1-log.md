@@ -922,3 +922,16 @@ b , c , and d are indices of the array and a < b < c < d .
 **Thoughts** Keep going, never give up left 2 days.
 
 **Link To Work** [Maximize Expression](https://github.com/ishifoev/CodeChalenge-JS/tree/main/Round10/day-98)
+
+
+### R1D99 Mar 1, 2022
+
+**Today Progress** Dijkstra's Algorithm
+Write a function that computes the lengths of the shortest paths
+between startandall of the other vertices in the graph using
+Dijkstra's algorithm and returns them in an array. Each index i in
+the output array should represent the length.
+
+**Thoughts** One day is left that finish 100 days code challenges. I think I just do a really cool job.
+
+**Link To Work** [Dijkstra's Algorithm](https://github.com/ishifoev/CodeChalenge-JS/tree/main/Round10/day-99)
