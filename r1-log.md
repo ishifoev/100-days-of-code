@@ -924,7 +924,7 @@ b , c , and d are indices of the array and a < b < c < d .
 **Link To Work** [Maximize Expression](https://github.com/ishifoev/CodeChalenge-JS/tree/main/Round10/day-98)
 
 
-### R1D99 Mar 1, 2022
+### R1D99 May 1, 2022
 
 **Today Progress** Dijkstra's Algorithm
 Write a function that computes the lengths of the shortest paths
@@ -935,3 +935,15 @@ the output array should represent the length.
 **Thoughts** One day is left that finish 100 days code challenges. I think I just do a really cool job.
 
 **Link To Work** [Dijkstra's Algorithm](https://github.com/ishifoev/CodeChalenge-JS/tree/main/Round10/day-99)
+
+### R1D100 May 2, 2022
+
+**Today Progress** Topological Sort
+Write a function that takes in a list of jobs and a list of dependencies
+and returns a list containing a valid order in which the given jobs can
+be completed.  
+
+**Thoughts** I am feeling good, that pass all of this journey, yes I need to do more job do prepare for technical interview. BUt I did a really good step to go to this one, I am really happy that I not miss any day, I am happy that I passed all of this process with failure and success equal. Will see you this journal again, for now I finished my 100 days code challenge.
+
+
+**Link To Work** [Topological Sort](https://github.com/ishifoev/CodeChalenge-JS/tree/main/Round10/day-100)
